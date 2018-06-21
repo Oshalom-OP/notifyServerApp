@@ -1,0 +1,20 @@
+{
+  "name": "json_parser_dcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "engines": {
+    "node": "9.3.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsdom": "^11.11.0",
+    "request": "^2.87.0"
+  }
+}
